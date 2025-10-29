@@ -8,7 +8,6 @@ This project is an advanced **AI-integrated patient management system** designed
 - 🔒 **Secure Patient Authentication**
 - 🧬 **AI-Based Health Data Insights**
 - 📋 **Patient Record Management**
-- 🩺 **Doctor–Patient Interaction Module**
 - 📊 **Health Report Visualization Dashboard**
 - ☁️ **Cloud-Ready Architecture**
 
